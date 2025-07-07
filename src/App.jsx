@@ -6,8 +6,6 @@ import ExperinceSection from "./sections/ExperinceSection.jsx";
 import TechStack from "./sections/TechStack.jsx";
 import Testimonial from "./sections/Testimonial.jsx";
 import Contact from "./sections/Contact.jsx";
-
-
 const main = () => {
     return (
         <>
