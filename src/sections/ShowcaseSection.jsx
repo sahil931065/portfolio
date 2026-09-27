@@ -39,7 +39,7 @@ const ShowcaseSection = () => {
                     <div className="text-content">
                         <h2>Obys Mini Frontend  </h2>
                         <p className='text-white-50 md:text-xl'>
-                            CasaDirect is a sleek real estate app designed for seamless property browsing and short-term rentals in Italy. It offers a clean user interface, real-time listings, and location-based search for effortless booking.
+                            An experimental, typography-driven portfolio inspired by modern creative agencies, combining bold layouts, minimal visuals, and cinematic motion.
                         </p>
                     </div>
                 </div>
