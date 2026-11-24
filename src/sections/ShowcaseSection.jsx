@@ -46,7 +46,7 @@ const ShowcaseSection = () => {
                 {/*Right*/}
 
                 <div className="project-list-wrapper overflow-hidden" >
-                    <a href="https://bizora-frontend-one.vercel.app/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://bizora-git-main-sahil-deep-singhs-projects.vercel.app/" target="_blank" rel="noopener noreferrer">
                         <div className="project" ref={project2Ref}>
                             <div className="image-wrapper bg-[#f0f0e5]">
                                 <img src="/images/Bizora.png" alt="Machine Anaylsis" />
